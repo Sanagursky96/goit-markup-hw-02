@@ -9,6 +9,7 @@ body {
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
   color: #2e2f42;
+  color: #434455;
 }
 
 .list {
@@ -181,7 +182,6 @@ cursor: pointer;
   color: #FFFFFF;
 }
 .portfolio-list-item {
-  list-style: none;
   cursor: pointer;
 }
 .portfolio-list-title {
