@@ -2,6 +2,7 @@
  --hero-section-color: #2E2F42;
  --footer-section-color: #2E2F42;
  --main-text-color: #434455;
+ --main-title-color: #2e2f42;
  --logo-color: #4d5ae5;
 }
 
@@ -129,6 +130,7 @@ line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
+color: var(--main-title-color);
 }
 /* ================== TEAM SECTION ================== */
 .team-section {
