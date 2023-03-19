@@ -142,6 +142,7 @@ line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
+color: var(--main-title-color);
 }
 .team-card {
   background-color: #ffffff;
@@ -151,6 +152,7 @@ font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
+color: var(--main-title-color);
 }
 .team-list-text {
 font-size: 16px;
